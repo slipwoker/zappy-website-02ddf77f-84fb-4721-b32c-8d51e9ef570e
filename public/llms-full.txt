@@ -65,7 +65,7 @@ Skip to main content
 
 
 
-Contact
+צור קשר
 
 
 
@@ -92,14 +92,14 @@ Contact
 
 
 
-# Real PizzaRise as Champions
+# ריל פיצה עולים כאלופים
 
 
-### 14 major titles. One relentless fire. A community that lives and breathes the beautiful game — this is more than a club, this is a movement.
+### 14 תארים גדולים. אש בלתי פוסקת. קהילה שחיה ונושמת את המשחק היפה — זה יותר ממועדון, זו תנועה.
 
 
-Meet the Squad
-Shop Merch
+הכירו את הסגל
+לחנות המוצרים
 
 
 
@@ -114,7 +114,7 @@ Shop Merch
 
 
 14
-Major Titles
+תארים גדולים
 
 
 
@@ -123,26 +123,20 @@ Major Titles
 
 3 x
 
-Champions League
+ליגת האלופות
 
 
 
 
 2024
 
-Euro for Clubs
+יורו למועדונים
 
 
 
 
 
-A legacy of winning, built on passion, grit, and an unrelenting drive for league domination.
-
-
-
-
-
-
+מורשת של ניצחון, הבנויה על תשוקה, נחישות ודחף בלתי מתפשר לשליטה בליגה.
 
 
 
@@ -154,28 +148,28 @@ A legacy of winning, built on passion, grit, and an unrelenting drive for league
 
 
 
-## Forged in Fire. Crowned in Glory.
-
-
-Real Pizza isn't just a club — it's a movement. From the roar of the stands to the precision on the pitch, every pass, every goal, every trophy is a testament to our relentless pursuit of greatness. This is where legends are made and history is written in gold.
-
-
-
-- Champions League 3 Times
-
-- Euro 2024 Club Championship
-
-- Monster Cup Grand Champion
-
-- European League 22
-
-- Champion of Champions Legacy Title
 
 
 
 
 
 
+## מחושלים באש. מוכתרים בתפארה.
+
+
+ריל פיצה היא לא רק מועדון — זו תנועה. משאגת היציעים ועד לדיוק על המגרש, כל מסירה, כל שער, כל גביע הם עדות לחיפוש הבלתי פוסק שלנו אחר מצוינות. כאן נוצרות אגדות וההיסטוריה נכתבת בזהב.
+
+
+
+- ליגת האלופות 3 פעמים
+
+- יורו 2024 אליפות מועדונים
+
+- גביע המפלצות אלוף-העל
+
+- הליגה האירופית 22
+
+- אלוף האלופים תואר מורשת
 
 
 
@@ -195,10 +189,16 @@ Real Pizza isn't just a club — it's a movement. From the roar of the stands to
 
 
 
-## OUR SQUAD
 
 
-Led by Adi, Eyal, and Itai, Real Pizza is more than a team — it's a brotherhood forged in fire, ready to defend every title with relentless passion.
+
+
+
+
+## הסגל שלנו
+
+
+בהובלת עדי, אייל ואיתי, ריל פיצה היא יותר מקבוצה — זו אחווה שחושלה באש, מוכנה להגן על כל תואר בתשוקה בלתי מתפשרת.
 
 
 
@@ -217,7 +217,7 @@ Led by Adi, Eyal, and Itai, Real Pizza is more than a team — it's a brotherhoo
 ### Shmuel Salto
 
 
-Goalkeeper
+שוער
 
 
 
@@ -233,7 +233,7 @@ Goalkeeper
 ### Noam Kuzia
 
 
-Midfielder
+קשר
 
 
 
@@ -249,7 +249,7 @@ Midfielder
 ### Li Daniel Noam
 
 
-Striker
+חלוץ
 
 
 
@@ -265,7 +265,7 @@ Striker
 ### Asaf Daniel
 
 
-Forward
+חלוץ התקפה
 
 
 
@@ -281,7 +281,7 @@ Forward
 ### Yehonatan Livne
 
 
-Defender
+בלם
 
 
 
@@ -297,7 +297,7 @@ Defender
 ### Itai Itayus Nachman
 
 
-Winger
+קיצוני
 
 
 
@@ -308,23 +308,7 @@ Winger
 
 
 
-View Full Squad
-
-
-
-
-
-
-
-
-
-
-
-
-## Gear Up Like a Champion
-
-
-Wear the crest with pride. From the pitch to the streets, represent Real Pizza with our exclusive, premium-quality merchandise designed for the true supporter.
+צפו בסגל המלא
 
 
 
@@ -336,9 +320,25 @@ Wear the crest with pride. From the pitch to the streets, represent Real Pizza w
 
 
 
-Official Kits
 
-Breathable, match-ready jerseys. Look like the squad.
+## הצטיידו כמו אלופים
+
+
+לבשו את הסמל בגאווה. מהמגרש לרחובות, ייצגו את ריל פיצה עם מרצ'נדייז בלעדי ואיכותי שעוצב עבור האוהד האמיתי.
+
+
+
+
+
+
+
+
+
+
+
+חולצות רשמיות
+
+חולצות נושמות ומוכנות למשחק. תיראו כמו הסגל.
 
 From ₪199
 
@@ -351,9 +351,9 @@ From ₪199
 
 
 
-Fan Shop
+חנות אוהדים
 
-Jackets, caps, and scarves for the loyal 12th man.
+ג'קטים, כובעים וצעיפים עבור האיש ה-12 הנאמן.
 
 From ₪89
 
@@ -366,9 +366,9 @@ From ₪89
 
 
 
-Souvenirs
+מזכרות
 
-Mugs, keychains, and collectibles to treasure forever.
+ספלים, מחזיקי מפתחות ופריטי אספנות לשמור לנצח.
 
 From ₪49
 
@@ -376,7 +376,7 @@ From ₪49
 
 
 
-Explore the Full Shop
+גלו את החנות המלאה
 
 
 
@@ -388,12 +388,12 @@ Explore the Full Shop
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -410,7 +410,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -423,23 +423,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -448,14 +445,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -518,7 +518,7 @@ Skip to main content
 
 
 
-Contact
+צור קשר
 
 
 
@@ -1123,12 +1123,12 @@ Meet the Players
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -1145,7 +1145,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -1158,23 +1158,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -1183,14 +1180,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -1253,7 +1253,7 @@ Skip to main content
 
 
 
-Contact
+צור קשר
 
 
 
@@ -1622,12 +1622,12 @@ Respect, passion, and community — the principles that ignite every match and u
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -1644,7 +1644,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -1657,23 +1657,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -1682,14 +1679,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -1752,7 +1752,7 @@ Skip to main content
 
 
 
-Contact
+צור קשר
 
 
 
@@ -2036,12 +2036,12 @@ Contact the Club
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -2058,7 +2058,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -2071,23 +2071,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -2096,14 +2093,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -2166,7 +2166,7 @@ Skip to main content
 
 
 
-Contact
+צור קשר
 
 
 
@@ -2387,12 +2387,12 @@ Shop Merch
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -2409,7 +2409,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -2422,23 +2422,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -2447,14 +2444,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -2502,7 +2502,7 @@ Privacy Policy
 
 
 
-Contact
+צור קשר
 
 
 
@@ -2640,12 +2640,12 @@ Data Protection Authority: For complaints, you may contact the Data Protection A
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -2662,7 +2662,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -2675,23 +2675,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -2700,14 +2697,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -2755,7 +2755,7 @@ Accessibility Statement
 
 
 
-Contact
+צור קשר
 
 
 
@@ -2899,12 +2899,12 @@ Response time: We respond to accessibility inquiries within 3 business days and 
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -2921,7 +2921,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -2934,23 +2934,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -2959,14 +2956,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 
@@ -3014,7 +3014,7 @@ Terms & Conditions
 
 
 
-Contact
+צור קשר
 
 
 
@@ -3180,12 +3180,12 @@ For questions or clarifications regarding the terms of use:
 
 
 
-Forged under the floodlights. Built for glory. Real Pizza is more than a club — it's a legacy in motion.
+מחושלת תחת הזרקורים. בנויה לתפארה. ריל פיצה היא יותר ממועדון — זו מורשת בתנועה.
 
 
 
 
-#### Quick Links
+#### קישורים מהירים
 
 
 - Home
@@ -3202,7 +3202,7 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Contact
+#### צור קשר
 
 
 - [business_email]
@@ -3215,23 +3215,20 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-#### Opening Hours
+#### שעות פעילות
 
 
-- Mon–Fri 09:00–18:00
+- ב'-ו' 09:00–18:00
 
-- Sat 09:00–13:00
+- שבת 09:00–13:00
 
-- Sun Closed
-
-
-
-
-
-#### Follow Us
+- ראשון סגור
 
 
 
+
+
+#### עקבו אחרינו
 
 
 
@@ -3240,14 +3237,17 @@ Forged under the floodlights. Built for glory. Real Pizza is more than a club �
 
 
 
-© 2026 Real Pizza. All rights reserved.
 
 
 
-Privacy Policy
-Terms & Conditions
-Accessibility
-Generated by Zappy
+© 2026 ריל פיצה. כל הזכויות שמורות.
+
+
+
+מדיניות פרטיות
+תנאים והגבלות
+הצהרת נגישות
+באמצעות Zappy
 
 ---
 

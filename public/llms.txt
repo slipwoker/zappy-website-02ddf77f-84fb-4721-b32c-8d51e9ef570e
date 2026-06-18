@@ -1,0 +1,83 @@
+# Real Pizza — Generative Engine Optimization Map
+
+> Real Pizza is a competitive soccer team with a rich trophy history including 14 major titles such as the Monster Cup, European League, Champions League (3 times), Euro 2024, and more. The team's identity is bold, energetic, and community-driven, represented by vibrant yellow and orange colors. The club has a full management team (Club Manager: Adi, Coach: Eyal, Assistant Coach: Itai) and a full squad of named players with shirt numbers. The website needs to be fresher, more unique, and more modern than a rival team's site, and should include merchandise shops (kits, fan gear, souvenirs) to maximize fan engagement and loyalty.
+
+---
+
+## Pages
+
+### Home
+https://real-pizza-02ddf77f.zappy5.app
+Experience the thrill of Real Pizza, the boldest competitive soccer team with 14 major titles. Find leagues, games, and fan action near you. Get in the game today!
+
+### Club Legacy
+https://real-pizza-02ddf77f.zappy5.app/club-legacy
+Dive into Real Pizza&#39;s trophy-laden history from Monster Cup to Euro 2024 glory. Relive the moments that built our unstoppable legacy. Celebrate greatness with us!
+
+### Squad & Management
+https://real-pizza-02ddf77f.zappy5.app/squad-management
+Get to know Adi, Eyal, Itai, and our full star-studded squad with shirt numbers. See the team driving our community-powered soccer revolution. Step into our world!
+
+### Fan Shops
+https://real-pizza-02ddf77f.zappy5.app/fan-shops
+Shop exclusive Real Pizza kits, fan gear, and souvenirs bursting with vibrant yellow and orange energy. Gear up and represent the dynasty. Claim your colors now!
+
+### Contact
+https://real-pizza-02ddf77f.zappy5.app/contact
+Ready to join Real Pizza&#39;s community or find recreational sports near you? Reach out to our team for leagues, events, and more. Your pitch awaits—contact us!
+
+## Legal & Policy
+
+### Privacy Policy
+https://real-pizza-02ddf77f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://real-pizza-02ddf77f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://real-pizza-02ddf77f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://real-pizza-02ddf77f.zappy5.app/contact
+- Endpoint: https://real-pizza-02ddf77f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Real Pizza
+Real Pizza is a competitive soccer team with a rich trophy history including 14 major titles such as the Monster Cup, European League, Champions League (3 times), Euro 2024, and more. The team's identity is bold, energetic, and community-driven, represented by vibrant yellow and orange colors. The club has a full management team (Club Manager: Adi, Coach: Eyal, Assistant Coach: Itai) and a full squad of named players with shirt numbers. The website needs to be fresher, more unique, and more modern than a rival team's site, and should include merchandise shops (kits, fan gear, souvenirs) to maximize fan engagement and loyalty.
+
+## Target Audience
+- Soccer fans, team supporters, league followers
+- Dedicated Soccer Fans
+- Local Community Supporters
+- Youth Soccer Players
+
+## Industry
+Sports & Recreation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://real-pizza-02ddf77f.zappy5.app/sitemap.xml
+- Robots: https://real-pizza-02ddf77f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://real-pizza-02ddf77f.zappy5.app/llms-full.txt

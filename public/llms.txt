@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://real-pizza-02ddf77f.zappy5.app
+https://example.com
 Experience the thrill of Real Pizza, the boldest competitive soccer team with 14 major titles. Find leagues, games, and fan action near you. Get in the game today!
 
 ### Club Legacy
-https://real-pizza-02ddf77f.zappy5.app/club-legacy
+https://example.com/club-legacy
 Dive into Real Pizza&#39;s trophy-laden history from Monster Cup to Euro 2024 glory. Relive the moments that built our unstoppable legacy. Celebrate greatness with us!
 
 ### Squad & Management
-https://real-pizza-02ddf77f.zappy5.app/squad-management
+https://example.com/squad-management
 Get to know Adi, Eyal, Itai, and our full star-studded squad with shirt numbers. See the team driving our community-powered soccer revolution. Step into our world!
 
 ### Fan Shops
-https://real-pizza-02ddf77f.zappy5.app/fan-shops
+https://example.com/fan-shops
 Shop exclusive Real Pizza kits, fan gear, and souvenirs bursting with vibrant yellow and orange energy. Gear up and represent the dynasty. Claim your colors now!
 
 ### Contact
-https://real-pizza-02ddf77f.zappy5.app/contact
+https://example.com/contact
 Ready to join Real Pizza&#39;s community or find recreational sports near you? Reach out to our team for leagues, events, and more. Your pitch awaits—contact us!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://real-pizza-02ddf77f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://real-pizza-02ddf77f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://real-pizza-02ddf77f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://real-pizza-02ddf77f.zappy5.app/contact
-- Endpoint: https://real-pizza-02ddf77f.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Sports & Recreation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://real-pizza-02ddf77f.zappy5.app/sitemap.xml
-- Robots: https://real-pizza-02ddf77f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://real-pizza-02ddf77f.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
